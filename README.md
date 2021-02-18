@@ -6,7 +6,7 @@ HALLER Antoine
 LECOUFFE Gauthier  
 
 ## Algorithme utilise
-A*
+A*          
 Cout de déplacement haut, bas, droite, gauche: 10 (1 * 10)  
 Cout de déplacement en diagonale: 14 (squareroot(2) * 10)  
 Calcul de gCost (cout de deplacement depuis la cible), de hCost (cout de deplacement depuis la position de depart)  
